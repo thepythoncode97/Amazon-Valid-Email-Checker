@@ -6,7 +6,7 @@
 1. **Accurate Checking**
 2. **Supports All Countries**
 3. **Proxy Support**
-4. **Multiprocessing Support** for faster checks
+4. **Multiprocessing Support for faster checks**
 
 
 Contact
