@@ -27,9 +27,10 @@ If you want to buy this tool, contact me via Telegram [@thepythoncode97](https:/
 
 如果您想购买此工具，请通过 Telegram 与我联系 [@thepythoncode97](https://t.me/thepythoncode97).
 
-**Please do not contact me if you are not serious about purchasing.**
+## Note:
+This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
 
-**如果您不是认真购买的，请不要联系我。**
+---
 
 Thank you!
 谢谢你！
